@@ -6,7 +6,7 @@ const video = document.querySelector(".vid-container video");
 //Sounds
 const sounds = document.querySelectorAll(".sound-picker button");
 //Time Display
-const timeDisplay = document.querySelector(".time-display");
+
 const outlineLength = outline.getTotalLength();
 //Duration
 const timeSelect = document.querySelectorAll(".time-select button");
