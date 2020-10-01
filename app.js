@@ -26,9 +26,7 @@ sounds.forEach(sound => {
   });
 });
 
-play.addEventListener("click", function() {
-  checkPlaying(song);
-});
+
 
 replay.addEventListener("click", function() {
     restartSong(song);
